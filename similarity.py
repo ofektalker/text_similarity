@@ -1,5 +1,3 @@
-# Dean Abutbul 305622375
-# Ofek Talker 311369961
 
 import io
 import argparse
